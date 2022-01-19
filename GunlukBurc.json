@@ -1,0 +1,46 @@
+[
+{
+	"BurcAdi": "Koç",
+	"BurcTarihi": "(21 Mart - 20 Nisan)",
+	"KapapFotoUrl": "https://raw.githubusercontent.com/ZeynepKaplann/BurcProjesi/main/koc-burcu-kapak.jpg",
+	"LogoUrl": "https://raw.githubusercontent.com/ZeynepKaplann/BurcProjesi/main/logo_koc.png",
+	"Aciklama": "Koç Burçlar kuşağının ilk burcudur. Hareketli ve enerjik oluşları ile tanınırlar. Ben egoları çok fazla gelişmiştir. ",
+	"GunlukYorumUrl": "http://grandmount.org/dailyhoroscope/burcyorumlari/kocgunluk.php"
+
+},
+
+{
+	"BurcAdi": "Boğa",
+	"BurcTarihi": "(21 Mart - 20 Nisan)",
+	"KapapFotoUrl": "https://raw.githubusercontent.com/ZeynepKaplann/BurcProjesi/main/boga-burcu-kapak.jpg",
+	"LogoUrl": "https://raw.githubusercontent.com/ZeynepKaplann/BurcProjesi/main/logo_boga.png",
+	"Aciklama": "Boğa'lar hedefleri doğrultusunda ilerlerken tüm dikkatlerini toplayabilme yeteneklerinin yanında maddecilikleri ile tanınırlar.",
+	"GunlukYorumUrl": "http://grandmount.org/dailyhoroscope/burcyorumlari/bogagunluk.php"
+
+
+},
+
+{
+	"BurcAdi": "İkizler",
+	"BurcTarihi": "(22 Mayıs - 22 Haziran)",
+	"KapapFotoUrl": "https://raw.githubusercontent.com/ZeynepKaplann/BurcProjesi/main/ikizler-burcu-kapak.jpg",
+	"LogoUrl": "https://raw.githubusercontent.com/ZeynepKaplann/BurcProjesi/main/logo_ikizler.png",
+	"Aciklama": "İkizler burcu insanları hızlı düşüncelerine uygun çabuk hareket ederler. Ayni anda birkaç işi birden yapabilirler. Onların adapte olamayacakları iş yoktur.",
+	"GunlukYorumUrl": "http://grandmount.org/dailyhoroscope/burcyorumlari/ikizlergunluk.php"
+
+
+},
+{
+	"BurcAdi": "Yengeç",
+	"BurcTarihi": "(22 Haziran - 22 Temmuz)",
+	"KapapFotoUrl": "https://raw.githubusercontent.com/ZeynepKaplann/BurcProjesi/main/yengec-burcu-kapak.jpg",
+	"LogoUrl": "https://raw.githubusercontent.com/ZeynepKaplann/BurcProjesi/main/logo_yencec.png",
+	"Aciklama": "Sorumluluk duyguları çok gelişmiştir. Her işte olağanüstü olan ayrıntıcılıkları işlerinde mükemmeliyetçiliği getirir.",
+	"GunlukYorumUrl": "http://grandmount.org/dailyhoroscope/burcyorumlari/yengecgunluk.php"
+
+
+}
+
+
+
+]
